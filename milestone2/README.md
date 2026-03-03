@@ -62,7 +62,7 @@ All features are fully integrated and tested within the TextMorph application.
 ![Signup Page](screenshots/signup_page2.png)
 
 ### Readability Dashboard
-![Dashboard](screenshorts/readability_dashboard.png)
+![Dashboard](screenshots/readability_dashboard.png)
 
 ### Admin Dashboard
 ![Admin](screenshots/admin_page.png)
@@ -71,7 +71,7 @@ All features are fully integrated and tested within the TextMorph application.
 ![Chat](screenshots/chat.png)
 
 ### OTP Verification page
-![OTP](screenshorts/otp_verification.png)
+![OTP](screenshots/otp_verification.png)
 
 ### Forgot Password
 ![Forgot Password](screenshots/forgot_password2.png)
