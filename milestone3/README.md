@@ -137,20 +137,12 @@ The user interface was enhanced to provide a **modern and user-friendly experien
 ---
 
 # System Architecture
-User Interface (Streamlit)
-        │
-        ▼
-Authentication Layer (JWT + OTP)
-        │
-        ▼
-AI Processing Layer
-   ├── Summarizer
-   ├── Paraphrase Engine
-   └── Readability Analyzer
-        │
-        ▼
-Database (PostgreSQL)
-   └── History
+User Interface (Streamlit) ↓ Authentication Layer (JWT + OTP) ↓ AI Processing Layer
+
+Summarizer
+Paraphrase Engine
+Readability Analyzer ↓ Database (PostgreSQL)
+History
 
 
 ---
